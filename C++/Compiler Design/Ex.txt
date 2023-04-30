@@ -1,0 +1,8 @@
+#include<iostream>
+main()
+{
+int a=1,b,c;
+b=5;
+c=a+b;
+return 0;
+}
